@@ -8,6 +8,7 @@
 int main(void)
 {
 	char lowercase_letters = 'a';
+
 	while (lowercase_letters <= 'z')
 	{
 		putchar(lowercase_letters);
