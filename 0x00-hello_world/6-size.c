@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main - Program that prints the various types on computer
- * Return: (0) success
+ * main - Entry point
+ *
+ * Return: 0 (Success)
  */
 int main(void)
 {
