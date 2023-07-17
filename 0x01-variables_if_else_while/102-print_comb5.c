@@ -7,9 +7,10 @@
 int main(void)
 {
 	int first_num, second_num;
+
 	first_num = 0;
 	while (first_num < 100)
-	{
+		{
 		 second_num = 0;
 		 while (second_num < 100)
 		 {
