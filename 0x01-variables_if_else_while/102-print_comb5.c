@@ -13,7 +13,7 @@ int main(void)
 	{
 		 second_num = 0;
 		 while (second_num < 100)
-		 {
+	 {
 			 if (first_num < second_num)
 			 {
 				 putchar((first_num / 10) + 48);
